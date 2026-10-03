@@ -1,0 +1,13 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+ml/.venv/
+backend/storage/
+__pycache__/
+*.pyc
+.venv/
+ml/weights/*.pt
+ml/runs/
+ml/datasets/
+*.db
+.DS_Store
